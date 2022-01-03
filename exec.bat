@@ -1,2 +1,2 @@
 @echo off
-start chrome.exe "https://youtu.be/Di63qc7fDoQ?t=245"
+start chrome.exe "https://drive.google.com/file/d/1SXx0Vp9PoNDtnaj16JZdq2mJlXwVNDL7/view?usp=sharing"
